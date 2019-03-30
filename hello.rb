@@ -1,1 +1,2 @@
-print"Hello world!"
+user==guests.chomp
+print"Bonjour"+user
